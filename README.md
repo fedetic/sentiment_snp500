@@ -5,3 +5,4 @@ Simple repo for getting data from Twitter using [tweepy](https://docs.tweepy.org
 Prerequisites:
 - Cluster
 - Mounted storage
+- Twitter account with an API key
